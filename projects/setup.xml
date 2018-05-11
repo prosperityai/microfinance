@@ -1,0 +1,1 @@
+<SETUP newdbpath="jdbc:postgresql://localhost/banking" dbpassword="Baraza2011" dbpath="jdbc:postgresql://localhost/postgres" dbname="banking" path="banking" context="context.xml" dbclass="org.postgresql.Driver" dbusername="postgres"></SETUP>

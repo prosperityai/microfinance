@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<TOMCAT base.dir="build/webapps" app.base="baraza" contextPath="/banking"  context="context.xml" init.xml="banking.xml"
+	repository="repository" port="9090">
+
+</TOMCAT>
+
